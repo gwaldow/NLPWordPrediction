@@ -1,0 +1,5 @@
+#ignore everything in saved (these files are too big)
+saved/*
+!saved/.gitkeep
+data/*
+!data/test.txt
